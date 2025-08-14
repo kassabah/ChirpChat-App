@@ -1,4 +1,4 @@
-﻿# ChirpChat-App BY KASSA BAH AND MUHAMMED DIBBA
+﻿# ChirpChat-App BY KASSA BAH 
 MEAN stack  named Chirp!
 
 ###Building Chirp,###
@@ -10,3 +10,4 @@ We're going to show you how to: Create a dynamic front end by using the Angular.
 ###Getting started with Angular### ###Node and Express### ###MongoDB### ###Tying the app together in Angular###
 
 KASSA BAH AND MUHAMMED DIBBA
+
